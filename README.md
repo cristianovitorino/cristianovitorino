@@ -38,7 +38,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianovitorino&count_private=true&show_icons=true&theme=dracula)](https://github.com/cristianovitorino/github-readme-stats)
 
-### Toolbox:
+### Also on my toolbox:
 <p align="left">
   <a>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">

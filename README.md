@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning and building projects in Front-End Web Development
+- 🌱 I’m currently learning and building projects with:
 
 <p align="left">
   <a>

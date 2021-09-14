@@ -38,6 +38,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianovitorino&count_private=true&show_icons=true&theme=dracula)](https://github.com/cristianovitorino/github-readme-stats)
 
+<!--
 ### Also on my toolbox:
 <p align="left">
   <a>
@@ -84,7 +85,6 @@
   </a>
 </p>
 
-<!--
 **cristianovitorino/cristianovitorino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

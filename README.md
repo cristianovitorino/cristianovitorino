@@ -1,4 +1,4 @@
-### Hello! I'm a Visual Designer and Developer.
+### Hello!
 <p align="left">
   <a href="https://www.linkedin.com/in/cristiano-vitorino-980971205/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning: Front-End Web Development
+- 🌱 I’m currently learning and building projects in Front-End Web Development
 
 <p align="left">
   <a>

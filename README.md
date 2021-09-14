@@ -11,8 +11,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning and building projects with:
-
+### 🌱 I’m currently learning and building projects with:
 <p align="left">
   <a>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -37,8 +36,9 @@
   </a>
 </p>
 
-- Toolbox:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianovitorino&count_private=true&show_icons=true&theme=dracula)](https://github.com/cristianovitorino/github-readme-stats)
 
+### Toolbox:
 <p align="left">
   <a>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -80,8 +80,6 @@
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   </a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianovitorino&count_private=true&show_icons=true&theme=dracula)](https://github.com/cristianovitorino/github-readme-stats)
 
 <!--
 **cristianovitorino/cristianovitorino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

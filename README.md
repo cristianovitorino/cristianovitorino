@@ -1,4 +1,11 @@
-Hello!
+Hello! I'm Cristiano Vitorino, Software Developer and Designer.
+
+- 🌱 I’m currently learning React, Redux and Context API
+- 👯 I’m looking to collaborate on Rust, Python, Javascript/HMT/CSS and Design projects
+- 🤔 I’m looking for help with Systems, UI/UX, AI/AGI and Robotics
+- 💬 Ask me about Space Exploration, Gravity, Propulsion, Quantum Mechancis, Astrophysics, Exobiology and Exointeligence
+- ⚡ Fun fact: I'm a avid gamer! Also a Mechanical Keyboards enthusiast : )
+- 📫 How to reach me:
 <p align="left">
   <a href="https://www.linkedin.com/in/cristianovitorino/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">

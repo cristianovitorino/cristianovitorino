@@ -18,7 +18,7 @@
   </a>
 </p>
 
-🌱 I’m currently learning and building projects with:
+🌱 I’m building projects with:
 <p align="left">
   <a>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

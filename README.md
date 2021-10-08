@@ -1,4 +1,4 @@
-Hello! I'm Cristiano Vitorino, Software Developer and Designer.
+# Hello! I'm Cristiano Vitorino, Software Developer and Designer.
 
 - 🌱 I’m currently learning React, Redux and Context API
 - 👯 I’m looking to collaborate on Rust, Python, Javascript/HMT/CSS and Design projects

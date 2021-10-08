@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React, Redux and Context API
 - 👯 I’m looking to collaborate on Rust, Python, Javascript/HMT/CSS and Design projects
 - 🤔 I’m looking for help with Systems, UI/UX, AI/AGI and Robotics
-- 💬 Ask me about Space Exploration, Gravity, Propulsion, Quantum Mechancis, Astrophysics, Exobiology and Exointeligence
+- 💬 Ask me about Space Exploration, Gravity, Propulsion, Quantum Mechancis, Astrophysics, Exobiology and Exointelligence
 - ⚡ Fun fact: I'm a avid gamer! Also a Mechanical Keyboards enthusiast : )
 - 📫 How to reach me:
 <p align="left">

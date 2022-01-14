@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Docker, Databases and Node.js
 - 👯 I’m looking to collaborate on Javascript/HMT/CSS and Visual Design projects
-- 🤔 I’m looking for help with Rust and Python
+- 🤔 I’m looking for help with Python and Rust
 - 💬 Ask me about Space Exploration, Gravity, Propulsion, Quantum Mechancis, Astrophysics and Exobiology
 - ⚡ Fun fact: I'm a avid gamer! Also a Mechanical Keyboards enthusiast : )
 - 📫 How to reach me:

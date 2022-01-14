@@ -1,9 +1,9 @@
-# Hello! I'm Cristiano Vitorino, Software Developer and Designer.
+# Hello! I'm Cristiano Vitorino, Fullstack Software Developer and Visual Designer.
 
-- 🌱 I’m currently learning React, Redux and Context API
-- 👯 I’m looking to collaborate on Javascript/HMT/CSS, Python, Rust and Design projects
-- 🤔 I’m looking for help with Systems Programming, UI/UX, AI/AGI and Robotics
-- 💬 Ask me about Space Exploration, Gravity, Propulsion, Quantum Mechancis, Astrophysics, Exobiology and Exointelligence
+- 🌱 I’m currently learning Docker, Databases and Node.js
+- 👯 I’m looking to collaborate on Javascript/HMT/CSS and Visual Design projects
+- 🤔 I’m looking for help with Rust and Python
+- 💬 Ask me about Space Exploration, Gravity, Propulsion, Quantum Mechancis, Astrophysics and Exobiology
 - ⚡ Fun fact: I'm a avid gamer! Also a Mechanical Keyboards enthusiast : )
 - 📫 How to reach me:
 <p align="left">
@@ -12,9 +12,6 @@
   </a>
   <a href="https://dribbble.com/cristianovitorino">
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
-  </a>
-  <a href="https://twitter.com/vitorinodev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
 
@@ -43,6 +40,24 @@
   </a>
   <a>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white">
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+  </a>
+   <a>
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+  </a>
+    <a>
+    <img src="https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white">
+  </a>
+   <a>
+    <img src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white">
+  </a>
+   <a>
+    <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black">
   </a>
 </p>
 

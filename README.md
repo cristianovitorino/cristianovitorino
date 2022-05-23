@@ -1,7 +1,5 @@
 # Hello!
 
-I'm a Visual Designer. UI/UX, Branding and Software Development student at Trybe.
-
 📫 How to reach me:
 <p align="left">
   <a href="https://www.linkedin.com/in/cristianovitorino/">

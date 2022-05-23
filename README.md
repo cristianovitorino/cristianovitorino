@@ -1,11 +1,8 @@
-# Hello! I'm Cristiano Vitorino, Fullstack Software Developer and Visual Designer.
+# Hello!
 
-- 🌱 I’m currently learning Docker, Databases and Node.js
-- 👯 I’m looking to collaborate on Javascript/HMT/CSS and Visual Design projects
-- 🤔 I’m looking for help with Python and Rust
-- 💬 Ask me about Space Exploration, Gravity, Propulsion, Quantum Mechancis, Astrophysics and Exobiology
-- ⚡ Fun fact: I'm a avid gamer! Also a Mechanical Keyboards enthusiast : )
-- 📫 How to reach me:
+I'm a Visual Designer. UI/UX, Branding and Software Development student at Trybe.
+
+📫 How to reach me:
 <p align="left">
   <a href="https://www.linkedin.com/in/cristianovitorino/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -15,6 +12,7 @@
   </a>
 </p>
 
+<!--
 🌱 I’m building projects with:
 <p align="left">
   <a>
@@ -60,6 +58,7 @@
     <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black">
   </a>
 </p>
+-->
 
 <div>
   <a href="https://github.com/cristianovitorino">

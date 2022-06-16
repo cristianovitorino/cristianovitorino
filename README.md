@@ -1,5 +1,7 @@
 # Hello!
 
+I'm Cristiano, Visual Designer, Branding, UI/UX and Fron-End developer from Brazil!
+
 📫 How to reach me:
 <p align="left">
   <a href="https://www.linkedin.com/in/cristianovitorino/">
@@ -9,6 +11,18 @@
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
   </a>
 </p>
+
+<div>
+  <a href="https://github.com/cristianovitorino">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cristianovitorino&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianovitorino&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cristianovitorino&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD4242)](https://git.io/streak-stats)
+
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cristianovitorino&repo=kronicle&theme=github_dark&show_icons=true)](https://github.com/cristianovitorino/kronicle)
+-->
 
 <!--
 🌱 I’m building projects with:
@@ -57,12 +71,6 @@
   </a>
 </p>
 -->
-
-<div>
-  <a href="https://github.com/cristianovitorino">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cristianovitorino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianovitorino&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 <!--
 ### Also on my toolbox:

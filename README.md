@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Cristiano, Visual Designer, Branding and UI/UX designer from Brazil!
+I'm Cristiano, Branding, UI/UX and Visual Designer from Brazil!
 
 📫 How to reach me:
 <p align="left">

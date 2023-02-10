@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Cristiano, Branding, UI/UX and Visual Designer from Brazil!
+I'm Cristiano, Rust Software Engineer and UI/UX Designer from Brazil!
 
 📫 How to reach me:
 <p align="left">

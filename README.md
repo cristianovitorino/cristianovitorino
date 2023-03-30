@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Cristiano, UI/UX Designer and a Rust Software Engineering student from Brazil!
+I'm Cristiano, UI/UX Designer and Software Engineer from Brazil!
 
 📫 How to reach me:
 <p align="left">

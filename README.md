@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Cristiano, UI/UX Designer from Brazil! I also do a bit of Software Engineering.
+I'm Cristiano, UI/Visual Designer from Brazil! I also do a bit of Software Engineering.
 
 📫 How to reach me:
 <p align="left">
